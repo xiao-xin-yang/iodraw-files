@@ -31,6 +31,9 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-6" value="开始治疗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="912" y="-486" width="83" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-7" value="开始治疗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="-405" width="83" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
