@@ -123,7 +123,7 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="-1225" width="279" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-45" value="信息模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="94" y="-1166" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
