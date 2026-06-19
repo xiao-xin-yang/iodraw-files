@@ -59,7 +59,10 @@
           <mxGeometry x="251" y="-424" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-18" value="设备启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1287" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="-1287" width="98" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-19" value="设备启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="-1287" width="98" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
