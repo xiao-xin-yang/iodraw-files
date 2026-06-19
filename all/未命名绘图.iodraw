@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0vMQsv0AFj_pcvnGTglv">
-    <mxGraphModel dx="1554" dy="2447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="1647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,36 +62,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-18" value="设备启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1287" width="98" height="26" as="geometry" />
+          <mxGeometry x="267" y="-628" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bOQpnx-EA5VuBc-6MYK9-19" target="bOQpnx-EA5VuBc-6MYK9-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-19" value="连接状态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="-1287" width="98" height="26" as="geometry" />
+          <mxGeometry x="414" y="-628" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bOQpnx-EA5VuBc-6MYK9-20" target="bOQpnx-EA5VuBc-6MYK9-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-20" value="设备状态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="-1287" width="98" height="26" as="geometry" />
+          <mxGeometry x="546" y="-628" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bOQpnx-EA5VuBc-6MYK9-21" target="bOQpnx-EA5VuBc-6MYK9-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-21" value="升压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="-1220" width="98" height="26" as="geometry" />
+          <mxGeometry x="546" y="-561" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bOQpnx-EA5VuBc-6MYK9-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.39996337890625" y="-1207" as="targetPoint" />
+            <mxPoint x="367.39996337890625" y="-548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-22" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="-1220" width="98" height="26" as="geometry" />
+          <mxGeometry x="414" y="-561" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-23" value="降压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1222" width="98" height="26" as="geometry" />
+          <mxGeometry x="267" y="-563" width="98" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
