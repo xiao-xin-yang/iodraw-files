@@ -97,7 +97,7 @@
           <mxGeometry x="201" y="-1251" width="611" height="415" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-33" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="-1005" width="60" height="23" as="geometry" />
+          <mxGeometry x="422" y="-1005" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-34" value="账户：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332" y="-1095" width="60" height="30" as="geometry" />
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="-1057" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="-886" as="sourcePoint" />
+            <mxPoint x="659" y="-936" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
