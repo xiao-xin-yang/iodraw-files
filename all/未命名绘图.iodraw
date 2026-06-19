@@ -97,13 +97,13 @@
           <mxGeometry x="201" y="-1251" width="611" height="415" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-33" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27" y="-863" width="60" height="23" as="geometry" />
+          <mxGeometry x="431" y="-986" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-34" value="账户：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332" y="-1095" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-36" value="账户：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="342" y="-1085" width="60" height="30" as="geometry" />
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-36" value="密码：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="-1071" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
