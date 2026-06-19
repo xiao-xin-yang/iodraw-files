@@ -105,6 +105,9 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-36" value="密码：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332" y="-1071" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="-1082" width="120" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
