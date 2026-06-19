@@ -132,6 +132,9 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-52" value="版本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="542" y="-1262" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
