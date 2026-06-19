@@ -126,8 +126,11 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-47" value="XXXX软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="267" y="-1187" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-51" value="关闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="584" y="-1262" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="-926" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
