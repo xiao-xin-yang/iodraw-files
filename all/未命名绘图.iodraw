@@ -120,11 +120,8 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-43" value="admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397" y="-1095" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="-1225" width="279" height="344" as="geometry" />
-        </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-45" value="信息模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="94" y="-1166" width="60" height="30" as="geometry" />
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;信息模块&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-1128" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
