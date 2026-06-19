@@ -123,6 +123,9 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;信息模块&lt;/h1&gt;&lt;p&gt;xxxxxxxxxxxxxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxxxxxxxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="-1105.5" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-47" value="XXXX软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="256" y="-1184" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
