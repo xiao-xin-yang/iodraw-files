@@ -73,8 +73,8 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-22" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="-1220" width="98" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bOQpnx-EA5VuBc-6MYK9-23" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="-1210" width="98" height="26" as="geometry" />
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-23" value="降压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1222" width="98" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
