@@ -64,6 +64,9 @@
         <mxCell id="bOQpnx-EA5VuBc-6MYK9-19" value="连接状态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="-1287" width="98" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="bOQpnx-EA5VuBc-6MYK9-20" value="设备状态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="-1287" width="98" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
